@@ -1,8 +1,9 @@
 :root {
-  --main-font-family: 'IBM Plex mono', sans-serif;
-  --font-size-sections: 1.13em;
+  --main-font-family: 'IBM Plex mono', monospace;
+  --font-size-sections: 1.125em;
   --size-decor-corner: 25px;
   --accent-color: #ff0070;
+  --menu-color: #ff0070;
   --title-color: #df00ff;
   --title-shadow-color: #ff0070;
   --paragraph-color: #f1b2ce;
