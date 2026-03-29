@@ -6,7 +6,7 @@
   --text-decor-color: #353430;
   --section-title-color: #353430;
   --corner-color: #353430;
-  --bg-color: #ffeef6;
+  --bg-color: #fff1f7;
   --show-rec-decor: none;
   --bg-image: url(../images/cover-image-light.png);
 }
@@ -20,7 +20,7 @@
     --text-decor-color: #353430;
     --section-title-color: #353430;
     --corner-color: #353430;
-    --bg-color: #ffeef6;
+    --bg-color: #fff1f7;
     --show-rec-decor: none;
     --bg-image: url(../images/cover-image-light.png);
   }
