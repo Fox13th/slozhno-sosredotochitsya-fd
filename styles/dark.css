@@ -1,6 +1,7 @@
 :root.theme-dark {
   --accent-color: #ff0070;
   --menu-color: #ff0070;
+  --menu-color-hover: rgb(255 0 112 / 0.4);
   --title-color: #df00ff;
   --title-shadow-color: #ff0070;
   --paragraph-color: #f1b2ce;
